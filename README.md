@@ -1,7 +1,6 @@
-### Hello there 👋 Glad you're here
+### Hello there 👋 glad you're here
 
-Currently I'm a...
-Network Security Engineer @ Unisys
+Current position: Network Security Engineer @ Unisys
 
 <!--
 **nicolaslambrecht/nicolaslambrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
